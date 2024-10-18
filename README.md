@@ -5,6 +5,6 @@ um jogo projeto direcionado para android implementado em java, inspirado na sér
 ## Vídeo de Demonstração
 
 Assista a uma breve explicação sobre a simulção no YouTube:
-[Vídeo da simulação]([https://www.youtube.com/watch?v=MMTyoqdY-vk&t=6s](https://www.youtube.com/watch?v=gWQ6Bg12-ng)
+[Vídeo da simulação](https://www.youtube.com/watch?v=gWQ6Bg12-ng)
 
 
